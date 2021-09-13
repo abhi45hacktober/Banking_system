@@ -1,0 +1,49 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.logo{
+    opacity: 1;
+}
+
+.logo:hover{
+    opacity: 0.5;
+}
+
+.main-heading {
+	
+	font-weight: bolder;
+	font-size: 4rem;
+	padding: 50px;
+	text-align: center;
+  }
+
+.h1{
+    margin-top: 70px;
+}
+
+
+.social-icon {
+	margin: 0 30px 0;
+	color: white;
+	font-size: 1.5rem;
+	opacity: 1;
+  }
+  .my-btn {
+    margin-left: 0%;
+  
+    margin-bottom: 3%;
+    font-weight: bolder;
+  }
+  
+  .social-icon:hover {
+	opacity: 0.4;
+  }
+  .copyright {
+	color: white;
+	margin-top: 5px;
+	margin-bottom: 2px;
+  }
