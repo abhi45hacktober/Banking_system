@@ -5,7 +5,7 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 .carousel-inner img {
-    width: 100%;
+    width: 150%;
     height: 92vh;
   }
   .aboutimg{
@@ -41,7 +41,7 @@
   }
   .copyright {
 	color: white;
-	margin-top: 5px;
+	margin-top: 10px;
 	margin-bottom: 2px;
   }
  
